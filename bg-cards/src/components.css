@@ -1,0 +1,14 @@
+table {
+    max-width: 95%;
+    text-align: center;
+    margin-left: 2.5%;
+}
+
+thead{
+    background-color: rgb(130,93,56);
+    color: white;
+}
+
+body{
+    background-color: rgb(233,214,171);
+}

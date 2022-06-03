@@ -1,1 +1,0 @@
-# Hearthstone-Battlegrounds-Card-Overview
